@@ -2,7 +2,7 @@
   "name": "spalk",
   "version": "1.0.0",
   "description": "",
-  "main": "mpegts-parser.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest --coverage",
     "build": "tsc",
