@@ -1,0 +1,19 @@
+{
+  "name": "spalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mpegts-parser.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1"
+  }
+}

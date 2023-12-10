@@ -1,0 +1,1 @@
+Error: No sync byte present in packet 20535, offset 3860580
